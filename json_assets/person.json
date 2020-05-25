@@ -1,0 +1,185 @@
+[
+    {
+        "nombre":"Iron Man",
+        "edad":"25",
+        "altura":"172",
+        "genero":"Masculino",
+        "profile":"https://www.cinemascomics.com/wp-content/uploads/2019/07/iron-man-no-muerto.jpg",
+        "identidad":"Tony stark",
+        "descripcion":"Dentro de sus poderes ofensivos cuenta con rayos repulsores, láseres, tornillos de pulso, nanobots, misiles inteligentes, mini balas, híper velocidad de impacto y una descarga de plasma, junto a otras cosas."
+    },
+    {
+        "nombre":"Ant-Man",
+        "edad":"26",
+        "altura":"165",
+        "genero":"Masculino",
+        "profile":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/4f/Ant-Man_and_the_Wasp_-_Promo_Ant-Man.png/revision/latest/top-crop/width/360/height/450?cb=20180716235632&path-prefix=es",
+        "identidad":"Scott Lang",
+        "descripcion":"Ant-Man mantiene su fuerza normal de humano incluso en tamaño de insecto, aumentando su potencia y agilidad, además de poseer las mismas habilidades físicas de una hormiga"
+    },
+    {
+        "nombre":"Capitan America",
+        "edad":"106",
+        "altura":"185",
+        "genero":"Masculino",
+        "profile":"https://i.pinimg.com/564x/9b/76/75/9b767505f5a5df3df348a898ba4ae8bb.jpg",
+        "identidad":"Steve Rogers",
+        "descripcion":"Sentidos, agilidad, velocidad y fuerza sobrehumanas. Gran habilidad con armas de fuego, con el martillo mjolnir y con su escudo."
+    },
+    {
+        "nombre":"Viuda Negra",
+        "edad":"25",
+        "altura":"152",
+        "genero":"Femenino",
+        "profile":"https://sm.ign.com/ign_es/news/k/kevin-feig/kevin-feige-on-how-black-widow-will-change-how-you-see-infin_xv1a.jpg",
+        "identidad":"Natasha",
+        "descripcion":"es una agente rusa entrenada como espía, artista marcial y francotiradora, y equipada con un arsenal de armas de alta tecnología"
+    
+    },
+    {
+        "nombre":"Spider-Man",
+        "edad":"17",
+        "altura":"157",
+        "genero":"Masculino",
+        "profile":"https://cnet1.cbsistatic.com/img/rfzZ-7G32v_qEt2uCD0b4KB2rho=/940x0/2019/03/26/13d0a566-7355-4381-be24-dee281227504/spider-man-far-from-home-promo-image-1.jpg",
+        "identidad":"Peter parker",
+        "descripcion":"Una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider-Man le permite levantar 10 toneladas o más"
+    },
+    {
+        "nombre":"Hulk",
+        "edad":"31",
+        "altura":"180",
+        "genero":"Masculino",
+        "profile":"https://hipertextual.com/files/2019/12/hipertextual-arte-conceptual-avengers-infinity-war-muestra-momento-hulk-que-todos-queriamos-ver-2019590432-740x490.jpeg",
+        "identidad":"Brus Banner",
+        "descripcion":"Cuando Bruce se enojaba, éste se transformaba en una criatura de color verde, con poderes increíbles que aumentaban su capacidad fisica al que le apodaron Hulk."
+    },
+    {
+        "nombre":"Rocket",
+        "edad":"20",
+        "altura":"66",
+        "genero":"Masculino",
+        "profile":"https://depor.com/resizer/GqyYmzz07jTA8G7ky3QPPfE0Rmk=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EQY4RCLDURGVZJQXANAY7KCGA4.jpg",
+        "identidad":"",
+        "descripcion":"Es un miembro de Guardianes de la Galaxia. Es un inteligente ser galáctico con la apariencia de un mapache antropomórfico,"
+    },
+    {
+        "nombre":"Mantis",
+        "edad":"25",
+        "altura":"162",
+        "genero":"Femenino",
+        "profile":"https://i.pinimg.com/originals/1e/b8/ab/1eb8ab540917320937b5993d200fc921.png",
+        "identidad":"",
+        "descripcion":"Mantis puede cambiar potencialmente las emociones de un ser vivo, cuando una persona esta triste puede hacerla feliz pero esto no es para divertirse y esta habilidad la usa para momentos que sean necesarios"
+        
+    },
+    {
+        "nombre":"Gamora",
+        "edad":"27",
+        "altura":"163",
+        "genero":"Femenino",
+        "profile":"https://www.cinemascomics.com/wp-content/uploads/2019/05/destino-gamora.jpg",
+        "identidad":"",
+        "descripcion":"Gamora es la hija adoptiva de Thanos, y es la última de su especie. Sus poderes incluyen fuerza y ​​agilidad sobrehumanas y un factor de curación acelerada. "
+    },
+    {
+        "nombre":"Doctor Strange",
+        "edad":"31",
+        "altura":"180",
+        "genero":"Masculino",
+        "profile":"https://dam.smashmexico.com.mx/wp-content/uploads/2018/04/24152409/marvel-escenas-eliminadas-y-mas-sorpresas-en-el-blu-ray-de-doctor-strange-cover.jpg",
+        "identidad":"Steven Strange",
+        "descripcion":"Doctor Strange sirve como el Hechicero Supremo, el principal protector de la Tierra contra las amenazas mágicas y místicas."
+    },
+    {
+        "nombre":"Loki",
+        "edad":"27",
+        "altura":"177",
+        "genero":"Masculino",
+        "profile":"https://depor.com/resizer/Bqb4x_f9Doq5eZ2LO4dJszccgWU=/1200x900/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/DJW3REP4CRBM3MKUP4UF4D6YQM.jpg",
+        "identidad":"",
+        "descripcion":" Además es un experto ilusionista y puede cambiar su aspecto físico a voluntad."
+    },
+    {
+        "nombre":"Vision",
+        "edad":"2",
+        "altura":"176",
+        "genero":"Masculino",
+        "profile":"https://dam.smashmexico.com.mx/wp-content/uploads/2018/04/24155309/marvel-vision-reaccion-kevin-feige-cover-e1523657010509.jpg",
+        "identidad":"",
+        "descripcion":"Visión es capaz de alterar su densidad. De este modo, es capaz de volverse más ligero que el aire para poder volar, o tan denso y duro como el diamante"
+    },
+    {
+        "nombre":"Bruja escarlata",
+        "edad":"31",
+        "altura":"164",
+        "genero":"Femenino",
+        "profile":"https://depor.com/resizer/Wa1VPUnNS6bNRX3ujkS3ccuDnGY=/1200x800/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/6SFQRSXQPRGZNJTZBI4BXHOLU4.jpg",
+        "identidad":"Wanda Maximoff",
+        "descripcion":"La Bruja Escarlata es una mutante con la capacidad de alterar las leyes de lo probable."
+    },
+    {
+        "nombre":"Falcon",
+        "edad":"32",
+        "altura":"175",
+        "genero":"Masculino",
+        "profile":"https://depor.com/resizer/2mVCvbQCp36xo-b5DDn_0QyXCpc=/1200x800/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/BUZQUUEVQJFUNHYISIPHMZ35JE.jpg",
+        "identidad":"Samuel Tomas",
+        "descripcion":"Originalmente poseía la habilidad de comunicarse telepáticamente con su halcón Redwing"
+    },
+    {
+        "nombre":"Nick",
+        "edad":"42",
+        "altura":"182",
+        "genero":"Masculino",
+        "profile":"https://depor.com/resizer/ATew0apokXxtLomVEkMz9OaXnmY=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/SATBMGGIJZG2FNATTBBOBYFXS4.jpg",
+        "identidad":"Nicolas Furi",
+        "descripcion":"Nicholas Joseph Fury es el ex Director de S.H.I.E.L.D. y el fundador de los Vengadores"
+    },
+    {
+        "nombre":"Flash",
+        "edad":"24",
+        "altura":"180",
+        "genero":"Masculino",
+        "profile":"https://upload.wikimedia.org/wikipedia/commons/6/6a/L80385-flash-superhero-logo-1544.png",
+        "identidad":"Barri Allen",
+        "descripcion":" posee una rapidez sobrehumana, la cual incluye la habilidad de correr a gran velocidad, reflejos sobrehumanos y la capacidad de violar algunas leyes de la física."
+    },
+    {
+        "nombre":"Mujer maravilla",
+        "edad":"27",
+        "altura":"179",
+        "genero":"Masculino",
+        "profile":"https://revistaiconica.com/wp-content/uploads/2017/07/La-Mujer-Maravilla.jpg",
+        "identidad":"Diana prince",
+        "descripcion":"es una de las grandes heroínas de la casa de Batman y Superman"
+    },
+    {
+        "nombre":"Aqua-Man",
+        "edad":"28",
+        "altura":"183",
+        "genero":"Masculino",
+        "profile":"https://www.cinemascomics.com/wp-content/uploads/2019/08/aquaman-2.jpg",
+        "identidad":"Athur curry",
+        "descripcion":"es la de dominar el medio acuático, como el legendario Rey de Atlantis"
+    },
+    {
+        "nombre":"Capitana-Marvel",
+        "edad":"27",
+        "altura":"168",
+        "genero":"Femenino",
+        "profile":"https://media.gq.com.mx/photos/5c829e8e61bbe1ebeb91e652/16:9/w_1920,c_limit/captainmarvel.jpg",
+        "identidad":"Dambers",
+        "descripcion":"Resistencia, agilidad, versatilidad, potencia térmica y hasta teletransportación hacen parte del repertorio de dones que posee Carol Danvers"
+    },
+    {
+        "nombre":"Star-Lord",
+        "edad":"31",
+        "altura":"175",
+        "genero":"Masculino",
+        "profile":"https://vignette.wikia.nocookie.net/marvel/images/9/9c/AIW_-_P%C3%B3ster_sin_texto_de_Star-Lord.png/revision/latest/top-crop/width/360/height/450?cb=20180914002238&path-prefix=es",
+        "identidad":"Will",
+        "descripcion":"cuenta con un físico y habilidades atléticas, es un tirador y espadachín experto muy hábil en el combate cuerpo a cuerpo"
+    }
+
+]
